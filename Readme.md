@@ -1,0 +1,1 @@
+This is a solution to one of my zuri python tasks. It is a python code for rock paper scissors game.
